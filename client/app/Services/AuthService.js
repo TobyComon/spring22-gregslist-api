@@ -1,5 +1,5 @@
 import { ProxyState } from '../AppState.js'
-import { audience, clientId, domain } from '../env.js'
+import { audience, clientId, domain } from '../../env.js'
 import { accountService } from './AccountService.js'
 import { api } from './AxiosService.js'
 // import { socketService } from './SocketService.js'

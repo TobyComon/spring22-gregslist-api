@@ -1,5 +1,5 @@
 import { logger } from './Logger.js'
-import { baseURL } from '../env.js'
+import { baseURL } from '../../../env.js'
 
 let connected = false
 let queue = []

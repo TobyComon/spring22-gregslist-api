@@ -1,4 +1,4 @@
-import { baseURL } from '../env.js'
+import { baseURL } from '../../env.js'
 
 // @ts-ignore
 // eslint-disable-next-line no-undef
